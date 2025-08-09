@@ -32,11 +32,6 @@ When slow mode is active:
 
 The HUD shows current base speed and available controls.
 
-## Notes
-
-- The script “consumes” all mouse and keyboard events while active, preventing accidental selection or interaction with scene objects.
-- Adjust the base movement speed in the HUD slider as needed.
-
 ## License
 
 MIT License
